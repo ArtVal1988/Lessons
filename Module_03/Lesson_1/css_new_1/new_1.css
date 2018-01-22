@@ -1,0 +1,18 @@
+.wrapper p {
+  text-weiht: bold;
+}
+
+.wrapper {
+  width: 800px;
+}
+
+.wrapper p .sp {
+  text-decoration: underline;
+}
+
+.wrapper p span {
+  color: aqua;
+  text-decoration: none;
+}
+
+
